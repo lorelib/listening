@@ -7,7 +7,7 @@ keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage'
 url: http://lorelib.github.io/  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
+img_path: /lorelib.github.io/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -18,7 +18,7 @@ author:  # change following line to your infomation.
   email: 893979653@qq.com  # Leave blank if you don't have now
   facebook_username: listening  # Leave blank if you don't have now
   github_username: lorelib  # Leave blank if you don't have now
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /lorelib.github.io/static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   skill_icon1:
     - name: icon-apache
     - name: fa-linux
