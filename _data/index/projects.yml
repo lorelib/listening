@@ -6,14 +6,14 @@
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.
+  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
 - name: LeetCode
   i18n: leetcode
   gh_user: kamyu104
   repo: LeetCode
   img: /static/assets/img/landing/leetcode.png
-  desc: LeetCode is a website which has many valuable algorithmic questions, this is a project of kamyu104's, I forked it and added more solutions, if you like Python you can find fun from this project.
+  desc: This project is other's project. I use another request to get repo's information.
 
 - name: FamilyCODE Wchat
   i18n: familycode
