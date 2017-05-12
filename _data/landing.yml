@@ -32,6 +32,6 @@
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: 链接
   tpl: links.html
   css: contact
