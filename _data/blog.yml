@@ -9,8 +9,15 @@
 - name: Scala
   href: /scala/
 
+- name: Python
+  href: /python/
+
 - name: Linux
   href: /linux/
 
 - name: 数据库
   href: /database/
+
+# Don't display donation page: change donation to off at file '_config.yml'
+- name: 捐赠
+  href: /donate/
