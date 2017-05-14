@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Snowflake-Java
   i18n: Snowflake-Java
-  gh_user: listening
+  gh_user: lorelib
   repo: Snowflake-Java
   img: /static/assets/img/landing/jekyll.png
   desc: twitter snowflake算法java版.
