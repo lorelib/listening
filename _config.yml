@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: listening  # Be used at blog posts' author.
   first_name: luo  # Be used at index page about me section.
   last_name: mingming  # Be used at index page about me section.
-  avatar: /listening/static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: lorelib  # Leave blank if you don't have now
   # linkedin_id: klistening # Leave blank if you don't have now
   # facebook_username: listening  # Leave blank if you don't have now
