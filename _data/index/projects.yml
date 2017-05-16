@@ -7,3 +7,10 @@
   repo: Snowflake-Java
   img: /static/assets/img/landing/jekyll.png
   desc: twitter snowflake算法java版.
+
+- name: Dubbo
+  i18n: Dubbo
+  gh_user: lorelib
+  repo: dubbo
+  img: /static/assets/img/landing/jekyll.png
+  desc: 对dubbo的扩展及相关的学习DEMO.
