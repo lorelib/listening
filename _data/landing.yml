@@ -1,5 +1,23 @@
 # index page sections
 # custom following lines to edit your index page
+- id: blog
+  i18n: nav.blog
+  name: 博客
+  tpl: blog.html
+  css: testimonials navy-section
+
+- id: projects
+  i18n: nav.projects
+  name: 项目
+  tpl: projects.html
+  css: project
+
+- id: skills
+  i18n: nav.skills
+  name: 技能
+  tpl: skills.html
+  css: team
+
 - id: about-me
   i18n: nav.about_me
   name: 关于我
@@ -11,24 +29,6 @@
 #   name: Career
 #   tpl: career.html
 #   css: timeline
-
-- id: skills
-  i18n: nav.skills
-  name: 技能
-  tpl: skills.html
-  css: team
-
-- id: projects
-  i18n: nav.projects
-  name: 项目
-  tpl: projects.html
-  css: project
-
-- id: blog
-  i18n: nav.blog
-  name: 博客
-  tpl: blog.html
-  css: testimonials navy-section
 
 - id: links
   i18n: nav.link
