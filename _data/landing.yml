@@ -1,16 +1,16 @@
 # index page sections
 # custom following lines to edit your index page
-- id: blog
-  i18n: nav.blog
-  name: 博客
-  tpl: blog.html
-  css: testimonials navy-section
-
 - id: projects
   i18n: nav.projects
   name: 项目
   tpl: projects.html
   css: project
+  
+- id: blog
+  i18n: nav.blog
+  name: 博客
+  tpl: blog.html
+  css: testimonials navy-section
 
 - id: skills
   i18n: nav.skills
@@ -32,6 +32,6 @@
 
 - id: links
   i18n: nav.link
-  name: 链接
+  name: 友情链接
   tpl: links.html
   css: contact
